@@ -1,4 +1,7 @@
-MM-NEAT
+This version of MM-NEAT is not longer being developed. 
+Please get the latest version from https://github.com/schrum2/MM-NEAT
+
+MM-NEAT version 2.0
 
 Copyright (c) 2014 The University of Texas at Austin 
 and 2016 Southwestern University.
